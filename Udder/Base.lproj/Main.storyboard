@@ -36,6 +36,10 @@
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="cow" translatesAutoresizingMaskIntoConstraints="NO" id="g52-mO-I5x">
+                                <rect key="frame" x="20" y="558" width="358" height="338"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            </imageView>
                         </subviews>
                         <color key="backgroundColor" systemColor="systemBackgroundColor" cocoaTouchSystemColor="whiteColor"/>
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
@@ -46,4 +50,7 @@
             <point key="canvasLocation" x="-17.39130434782609" y="137.94642857142856"/>
         </scene>
     </scenes>
+    <resources>
+        <image name="cow" width="3000" height="1943"/>
+    </resources>
 </document>
